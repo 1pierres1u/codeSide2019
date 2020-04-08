@@ -5,7 +5,7 @@
 
 
 [Link to CodeSide2019](https://russianaicup.ru) <br/>
-[My Profile](russianaicup.ru/profle/a24benzene)  <br/> 
+[My Profile](https://russianaicup.ru/profile/a24benzene)  <br/> 
 
 
 ## STRATEGY
