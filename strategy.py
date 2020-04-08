@@ -61,7 +61,6 @@ class Line:
                 ma = d
         return (p,j)
 
-
 class Sparta:
     def __init__(self):
         self.eye = Eyes()
